@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKv5URbXLLdb+d+JFlowa3Klmc5wk9XLizookBawS/MtFEzCOyCvRMBZ9+1k41d/u9CrXBF5gr0Lp2W/KodtHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p.mojsiewicz\\source\\repos\\PasswordSaver\\WinApiManager\\WinApiManager.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://raynetdocker:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

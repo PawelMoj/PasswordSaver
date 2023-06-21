@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+iuKsQnpdJwccXgXy6qlzpmv068tXq2cb+wThchu7mZrhbKCsk/fckP+XMZoifaZ3dnj+zaH77EacApQvkjag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p.mojsiewicz\\source\\repos\\PasswordSaver\\PasswordSaver\\PasswordSaver.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://raynetdocker:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
